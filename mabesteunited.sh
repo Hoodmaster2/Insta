@@ -715,7 +715,7 @@ echo -e "
            \033[1;35m it will come on next update " 
 sleep 10
 # please wait for the updation
-bash insta4.sh
+bash mabesteunited.sh
 
 elif [[ $option -eq 10 ]]; then
 echo -e " install the instagram mod apk on media fire.com
