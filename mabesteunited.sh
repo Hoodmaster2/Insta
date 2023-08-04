@@ -30,7 +30,7 @@ clear
 apt update
 apt upgrade
 apt install figlet -y
-figlet by master-hack
+figlet by MABESTE UNITED
 sleep 10
 clear
 figlet installing packages
