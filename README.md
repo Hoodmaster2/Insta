@@ -38,7 +38,7 @@ apt install git curl openssh openssl openssl-tool -y
 3. Once the required packages are installed, you can proceed to run the Instagram Tool Script with the following command:
 
 ```shell
-bash insta_tool.sh
+bash mabesteunited.sh
 ```
 
 4. The script will launch, presenting you with a menu of available options and functionalities. Follow the on-screen instructions to use the desired features.
